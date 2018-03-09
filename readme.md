@@ -47,7 +47,7 @@ Moreover, tensorflow (1.3.0 & 1.4.1 are supported, but either under 1.0 or 1.6 c
 
 Default: classification of related/unrelated, use attention based title to replace full documents.
 
-### 5. Others
+###5. Others
 The detail step of UCL's work are in folder: ./UCL_Repeat/README.md
 Environments requirements:
 Python 3.5
@@ -55,5 +55,3 @@ Tensorflow 0.12.1
 Scipy
 Numpy
 
-
-# Final-Project-for-Natural-Language-Processing-FDU
