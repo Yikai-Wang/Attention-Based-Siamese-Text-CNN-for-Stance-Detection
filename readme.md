@@ -1,4 +1,5 @@
 # Fake News Challenge
+Here is the final project for NLP course.
 
 Our work include several parts:
 
@@ -31,7 +32,7 @@ Environments requirements:
 tensorflow (1.2.1)
 numpy
 
-###4. TextCNN and Siamese Network
+### 4. TextCNN and Siamese Network
 
 The codes of TextCNN with Siamese Network are our novel work, the construction of CNN refered conventional TextCNN (https://github.com/dennybritz/cnn-text-classification-tf), we extend the Siamese structure for our purpose.
 
@@ -47,7 +48,7 @@ Moreover, tensorflow (1.3.0 & 1.4.1 are supported, but either under 1.0 or 1.6 c
 
 Default: classification of related/unrelated, use attention based title to replace full documents.
 
-###5. Others
+### 5. Others
 The detail step of UCL's work are in folder: ./UCL_Repeat/README.md
 Environments requirements:
 Python 3.5
